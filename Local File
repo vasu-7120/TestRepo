@@ -6,4 +6,6 @@ part 2 a
 Adding message to remote repository to check git pull
 Adding message to check git fetch
 Checking out git merge option
-Adding line to chekout git stash command
+Checking out git stash option
+Checking git push option from other branch
+Pulled changes from other branch. It is working
